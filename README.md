@@ -30,6 +30,7 @@ Dieses Projekt enthält ein Power BI-Berichtsprojekt, das sich mit den Streaming
 
 ## Beitrag
 
-Fühlen Sie sich frei, Verbesserungsvorschläge, Fehlerberichte oder neue Funktionen vorzuschlagen, indem Sie ein Issue erstellen oder einen Pull-Request senden.
+Fühlen Sie sich frei, Verbesserungsvorschläge, Fehlerberichte oder neue Funktionen vorzuschlagen, indem Sie ein Issue erstellen oder einen Pull-Request senden
+
 ![Spotify-Mohsen Sabziyan](https://github.com/MrPersia/Power-BI-report-Spotify-Mohsen.Sabziyan/assets/137727283/191e1e2c-201e-4296-9a0a-ef0373b21a23)
 
